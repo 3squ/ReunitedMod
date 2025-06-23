@@ -1,4 +1,4 @@
-# myTeardrop ReunitedMod
+# myTeardrop Reunited Mod
 Only Contains Files you need to install myTeardrop Reunited Mod
 ## Installation
 ### Requirements
