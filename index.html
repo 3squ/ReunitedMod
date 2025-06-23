@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <meta name="theme-color" content="#000000">
+    <title>myTeardrop Reunited</title>
+    <meta content="myTeardrop Reunited Mod" property="og:title" />
+    <meta content="Reunited is a mod for myTeardrop that adds custom costumes into the game. Play the original game by playing on https://myveryownteardrop.xyz" property="og:description" />
+    <meta content="#4291ff" property="theme-color" />
+    <link rel="manifest" href="manifest.json" />
+
+    <style>
+        body {
+            background-color: black;
+            overflow: hidden;
+        }
+        #loadbackground {
+            display: none;
+        }
+    </style>
+</head>
+
+</html>
+<!--<div id="collectingDroplets">
+    <img id="loadingDance" src="loadingDance.gif">
+    <img id="collecting" src="Resources/Load.png" style="bottom: calc(52%);">
+    <div id="loader">
+        <div id="bar"></div>
+    </div>
+    <p>Collecting Droplets...</p>
+</div>-->
+
+<!--<script>
+    let useOldLoader = false;
+    try {
+        useOldLoader = JSON.parse(localStorage.loaderData).useOldLoader;
+    } catch (e) {
+
+    };
+
+    let collectingDroplets = document.createElement("div");
+    collectingDroplets.classList.add("collectingDroplets");
+    let loadingDance = document.createElement("img");
+    loadingDance.classList.add("loadingDance");
+    let loader = document.createElement("div");
+    loader.classList.add("loader");
+    let bar = document.createElement("div");
+    bar.classList.add("bar");
+    document.body.appendChild(collectingDroplets);
+    collectingDroplets.appendChild(loadingDance);
+    collectingDroplets.appendChild(loader);
+    loader.appendChild(bar);
+</script>-->
+<!-- <img id="loadbackground" src="Resources/bg2048x2048.png"> -->
+<script src="backgroundloader.js"></script>
+<script src="pixi.js"></script>
+<script src="pixi.filters.js"></script>
+<script src="matter.js"></script>
+<script src="pizzicato.js"></script>
+<script type="module" src="ease.js"></script>
+<!--<script type="module" src="bfdi/bfdi.js"></script>-->
+<script>
+    let script = document.createElement("script");
+    script.type = "module";
+    script.src = "bfdi/bfdi.js?v=" + localStorage.version;
+    document.body.appendChild(script);
+</script>
+</canvas>

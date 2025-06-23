@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"BodiesCostume_NEC30000":
+{
+	"frame": {"x":0,"y":0,"w":95,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":353,"y":320,"w":146,"h":203},
+	"sourceSize": {"w":146,"h":203}
+},
+"BodiesCostume_NEC30001":
+{
+	"frame": {"x":95,"y":0,"w":92,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":358,"y":303,"w":146,"h":203},
+	"sourceSize": {"w":146,"h":203}
+},
+"BodiesCostume_NEC30002":
+{
+	"frame": {"x":187,"y":0,"w":137,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":100,"w":146,"h":203},
+	"sourceSize": {"w":146,"h":203}
+},
+"BodiesCostume_NEC30003":
+{
+	"frame": {"x":324,"y":0,"w":137,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":335,"y":318,"w":146,"h":203},
+	"sourceSize": {"w":146,"h":203}
+},
+"BodiesCostume_NEC30004":
+{
+	"frame": {"x":0,"y":188,"w":146,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":100,"w":146,"h":203},
+	"sourceSize": {"w":146,"h":203}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "23.0.1.70",
+	"image": "BodiesCostume_NEC3.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}
