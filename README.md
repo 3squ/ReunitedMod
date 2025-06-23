@@ -1,3 +1,4 @@
+![banner](https://github.com/user-attachments/assets/4b58d05f-d449-4287-99cd-4c656bebe5bf)
 # myTeardrop Reunited Mod
 Reunited Mod is a mod for myTeardrop adding more than 30 costumes, plenty of food and achievements into the game.
 
