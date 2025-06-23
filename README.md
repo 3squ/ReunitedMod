@@ -3,6 +3,8 @@
 Reunited Mod is a mod for myTeardrop adding more than 30 costumes, plenty of food and achievements into the game.
 
 This Github repository only contains files you would need to install myTeardrop Reunited Mod locally
+## Play on website instead?
+https://reunited.myveryownteardrop.xyz/
 ## Installation
 ### Requirements
 * Game Files for myTeardrop 1.4.1 (Recommended!)
