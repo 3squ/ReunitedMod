@@ -12,3 +12,5 @@ This Github repository only contains files you would need to install myTeardrop 
 1. Click Mods Folder located in-between "Launch Modded" and "Credits", This will open ``play_modded`` Folder.
 2. Copy the contents inside the zip file to the aforementioned ``play_modded`` folder.
 3. Launch Modded and Enjoy
+## Contribution
+I don't know...
