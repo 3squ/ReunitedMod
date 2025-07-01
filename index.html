@@ -4,13 +4,13 @@
 <head>
     <meta name="viewport" content="width=device-width, user-scalable=no">
     <meta name="theme-color" content="#000000">
-    <title>myTeardrop Reunited</title>
-    <meta content="myTeardrop Reunited Mod" property="og:title" />
-    <meta content="Reunited is a mod for myTeardrop that adds custom costumes into the game. Play the original game by playing on https://myveryownteardrop.xyz" property="og:description" />
+    <title>myTeardrop Reunited Mod Beta</title>
+    <meta content="myTeardrop Reunited Mod Beta" property="og:title" />
+    <meta content="Work in progress, Testing beep boop. Play the original game by playing on https://myveryownteardrop.xyz" property="og:description" />
     <meta content="#4291ff" property="theme-color" />
     <link rel="manifest" href="manifest.json" />
-
-    <style>
+</head>
+<style>
         body {
             background-color: black;
             overflow: hidden;
@@ -18,8 +18,7 @@
         #loadbackground {
             display: none;
         }
-    </style>
-</head>
+</style>
 
 </html>
 <!--<div id="collectingDroplets">
@@ -52,11 +51,36 @@
     collectingDroplets.appendChild(loader);
     loader.appendChild(bar);
 </script>-->
-<!-- <img id="loadbackground" src="Resources/bg2048x2048.png"> -->
+<!--<img id="loadbackground" src="Sprites/bg1024x1024.png">-->
+
+<!--<script>
+    let scale = 640 / (1920 / 4);
+    let landscapeMode = (640 * (window.innerWidth / window.innerHeight)) >= 360;
+
+    let resolution = window.innerHeight / 640;
+    let width = (640 * (window.innerWidth / window.innerHeight));
+    let height = 640;
+    if (landscapeMode == false) {
+        width = 360;
+        height = (360 * (window.innerHeight / window.innerWidth));
+        resolution = window.innerWidth / 360;
+    };
+    scale *= resolution;
+
+    if (scale * 1024 < window.innerWidth) {
+        scale = window.innerWidth / 1024;
+    };
+    if (scale * 1024 < window.innerHeight) {
+        scale = window.innerHeight / 1024;
+    };
+    let loadbackground = document.getElementById("loadbackground");
+    loadbackground.style.transform = `translate(-50%, -50%) scale(${scale}, ${scale})`;
+</script>-->
 <script src="backgroundloader.js"></script>
 <script src="pixi.js"></script>
 <script src="pixi.filters.js"></script>
 <script src="matter.js"></script>
+<!--https://github.dev/3squ/mytdru_rewrite/tree/test1 ha-->
 <script src="pizzicato.js"></script>
 <script type="module" src="ease.js"></script>
 <!--<script type="module" src="bfdi/bfdi.js"></script>-->
@@ -66,4 +90,5 @@
     script.src = "bfdi/bfdi.js?v=" + localStorage.version;
     document.body.appendChild(script);
 </script>
-</canvas>
+
+<!-- contribute a -->

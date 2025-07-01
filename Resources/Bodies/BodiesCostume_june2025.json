@@ -1,0 +1,67 @@
+﻿{"frames": {
+
+"BodiesCostume_june20250000":
+{
+	"frame": {"x":4,"y":4,"w":119,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":342,"y":325,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+},
+"BodiesCostume_june20250001":
+{
+	"frame": {"x":128,"y":4,"w":114,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":347,"y":306,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+},
+"BodiesCostume_june20250002":
+{
+	"frame": {"x":247,"y":4,"w":105,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":347,"y":332,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+},
+"BodiesCostume_june20250003":
+{
+	"frame": {"x":357,"y":4,"w":102,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":353,"y":315,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+},
+"BodiesCostume_june20250004":
+{
+	"frame": {"x":464,"y":4,"w":108,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":351,"y":332,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+},
+"BodiesCostume_june20250005":
+{
+	"frame": {"x":577,"y":4,"w":104,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":354,"y":315,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+},
+"BodiesCostume_june20250006":
+{
+	"frame": {"x":4,"y":179,"w":800,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.9.73",
+	"image": "BodiesCostume_june2025.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

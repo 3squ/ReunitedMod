@@ -175,10 +175,26 @@
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
 	"sourceSize": {"w":50,"h":50}
+},
+"inputNineSlice0022":
+{
+	"frame": {"x":225,"y":115,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"inputNineSlice0023":
+{
+	"frame": {"x":280,"y":115,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
 }},
 "meta": {
 	"app": "Adobe Animate",
-	"version": "23.0.1.70",
+	"version": "24.0.1.329",
 	"image": "inputNineSlice.png",
 	"format": "RGBA8888",
 	"size": {"w":512,"h":256},

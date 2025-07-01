@@ -178,6 +178,22 @@
 },
 "Food0022":
 {
+	"frame": {"x":393,"y":127,"w":57,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":123,"w":301,"h":301},
+	"sourceSize": {"w":301,"h":301}
+},
+"Food0023":
+{
+	"frame": {"x":457,"y":117,"w":45,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":122,"w":301,"h":301},
+	"sourceSize": {"w":301,"h":301}
+},
+"Food0024":
+{
 	"frame": {"x":5,"y":188,"w":301,"h":301},
 	"rotated": false,
 	"trimmed": false,

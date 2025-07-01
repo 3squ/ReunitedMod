@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"BodiesCostume_RUilx0000":
+{
+	"frame": {"x":1,"y":27,"w":129,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":326,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+},
+"BodiesCostume_RUilx0001":
+{
+	"frame": {"x":147,"y":9,"w":105,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":349,"y":306,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.0.305",
+	"image": "BodiesCostume_RUilx.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1024},
+	"scale": "1"
+}
+}

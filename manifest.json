@@ -1,8 +1,8 @@
 {
-    "name": "myTeardrop Reunited",
+    "name": "Reunited Beta",
     "icons": [
         {
-            "src": "icons/512x512.png",
+            "src": "./icons/betaButton.png",
             "type": "image/png",
             "sizes": "512x512"
         }
