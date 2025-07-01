@@ -7,7 +7,7 @@ This Github repository only contains files you would need to install myTeardrop 
 https://reunited.myveryownteardrop.xyz/
 ## Installation
 ### Requirements
-* Game Files for myTeardrop 1.4.3 (Recommended!)
+* Game Files for myTeardrop 1.4.2 (Recommended!)
 ### Self-Hosted
 1. Just, Copy the contents inside the zip file and paste it inside ``play`` folder if you have myTeardrop 1.4.3 folder.
 ### NOTmyTeardrop (Windows)
