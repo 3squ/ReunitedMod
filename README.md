@@ -15,6 +15,6 @@ https://reunited.myveryownteardrop.xyz/
 2. Copy the contents inside the zip file to the aforementioned ``play_modded`` folder.
 3. Launch Modded and Enjoy
 ## Contribution
-The public "source" code of this mod is not public for few reasons; This version of the mod is built on "Semi-Source" code with comprehensive variables, and it can contain soon-to-be-released content for Update 1.5 from the Update 1.4.3 received from VENDORMINT.
+The public "source" code of this mod is not public for few reasons; This version of the mod is built on "Semi-Source" code with comprehensive variables, and it can contain soon-to-be-released content for Update 1.5 from the Update 1.4.2+ received from VENDORMINT.
 
 The ``bfdi.js`` file you're looking at is minimized and It's not recommended to contribute unless you know what you're doing, and It's recommend to contribute for Version 1.x of Reunited Mod.
